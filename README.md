@@ -1,29 +1,27 @@
 <h1 align="center">Hi there, I'm Roland 👋</h1>
 <h3 align="center">A passionate frontend/backend developer and Game Designer from Norway</h3>
 
-Quality Assurance Analyst | Aspiring Fullstack Developer
+Quality Assurance | Aspiring Fullstack Developer
 Welcome to my GitHub profile! I'm currently working full-time in Quality Assurance but am on a dedicated path to becoming a Fullstack Developer. My journey is fueled by a strong passion for learning and challenging myself every day.
 
 🔭 What I'm Focused On:
 
-Mastering both front-end and back-end development skills.
-Continuously improving my coding practices and learning new technologies.
-Building and contributing to projects that solve real-world problems.
-🌱 Currently Learning:
+ - Mastering both front-end and back-end development skills.
+ - Continuously improving my coding practices and learning new technologies.
+ - Building and contributing to projects that solve real-world problems.
 
-[List specific technologies or frameworks you're learning, like React, Node.js, etc.]
+
+
+
 ✨ Key Interests:
+ - Finding innovative solutions to complex problems.
+ - Exploring new trends in web development.
+ - Collaborating on open-source projects.
 
-Finding innovative solutions to complex problems.
-Exploring new trends in web development.
-Collaborating on open-source projects.
 👥 Let's Connect:
+ - Feel free to explore my repositories and projects – I'll be making more of my work public very soon!
+ - If you have any questions, want to discuss tech, or are interested in collaborating on a project, don't hesitate to get in touch!
 
-Feel free to explore my repositories and projects – I'll be making more of my work public very soon!
-If you have any questions, want to discuss tech, or are interested in collaborating on a project, don't hesitate to get in touch!
-
-
-- 🌱 I’m currently learning **Angular and**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
